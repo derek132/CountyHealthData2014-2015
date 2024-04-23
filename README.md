@@ -32,3 +32,5 @@ To explore the County Health Data 2014-2015:
 3. Refer to the README file for additional context and insights.
 4. Use the provided visualization to understand trends and patterns in the data.
 
+![data-viz](graph.png)
+
